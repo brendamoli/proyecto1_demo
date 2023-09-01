@@ -1,0 +1,20 @@
+# proyecto1_demo
+
+A new Flutter project.
+
+## Getting Started
+
+
+# proyecto1_demo
+
+A new Flutter proyect.
+
+## Getting Started
+
+PROYECTO DESARROLLADO CON EL IDE DE ANDROID STUDIO 
+UTILIZANDO EL FRAMENWORK DE FLUTTER Y LENGUAJE DE DART.
+
+EL PROYECTO CONSISTE EN UNA APP UN CHAT CON BASE 
+DE DATOS FIREBASE 
+
+AUTOR: BRENDA MOLINA 
